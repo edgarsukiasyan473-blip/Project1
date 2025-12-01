@@ -1,0 +1,15 @@
+# Password Generator
+
+A simple Python program that generates a random password using letters, numbers, and punctuation.
+
+## Features
+- Generates strong random passwords
+- User chooses password length
+- Uses `string` and `random` modules
+
+## How to Run
+1. Install Python 3
+2. Run the script:
+
+```bash
+python password_generator.py
